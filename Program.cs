@@ -206,7 +206,7 @@ class Program
 
         return averageLightNeeds;
     }
-    static decimal GetPercentageOfPlantsAdopted(List<Plant> plants)
+    static decimal GetPercentageOfPlantsAdopted(List<Plant> plants) //Comment
     {
         
         decimal getAdoptedPlants = 0.0M;
